@@ -1,0 +1,3 @@
+shot_id,duration_s,shot_size,camera_move,subject,action,lighting,lens,prompt,audio,notes
+S01,3,WS,static,"a fishing boat at dawn","idles in flat water","blue hour, single warm lamp on deck","24mm","Wide static shot of a small fishing boat at dawn, blue hour light, one warm lamp on the deck, flat water, 24mm, f/8, camera locked off, 24 fps","engine idle, water slap","establish location"
+S02,4,MCU,slow push in,"the skipper","checks a rope, looks up","soft side light from the east","50mm","Medium close-up of a skipper checking a rope, slow push in, soft side light, 50mm, f/2.8, 24 fps","rope creak, gull","first human beat"
