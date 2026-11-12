@@ -59,7 +59,9 @@ the cut.
 The prompt column is written for any text-to-video model that takes a natural-language shot
 description; the wording here follows the five-part structure used by
 [Wan 3.0](https://wan-3.io/) (subject → framing → light → lens → motion), which is what the
-example prompts were rendered with.
+example prompts were rendered with. The same row-per-shot structure carries over to
+[Pavo AI](https://pavoai.app/), where the cast is reused across rows so characters stay the same
+between shots.
 
 ## Licence
 
